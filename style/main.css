@@ -300,6 +300,9 @@ h1, h2, h3, .wish-hbd, #name {
   .four .text-box {
     width: 95%;
   }
+  #letterBox {
+      width: 650px;
+    }
 }
 
 @media screen and (max-width: 500px) {
